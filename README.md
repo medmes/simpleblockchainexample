@@ -1,0 +1,1 @@
+# Simple BlockChain java sampleThis example demonstrate a simple blockchain implimentation in Java.## Quick StartYou can clone the project on your machine by cloning from:```bashgit clone git@github.com:medmes/simpleblockchainexample.git```Just run the main class (init class).
